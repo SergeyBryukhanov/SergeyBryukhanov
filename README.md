@@ -1,6 +1,4 @@
-# SergeyBryukhanov
-
-# Сергей Брюханов — Python / Data Science Developer
+# SergeyBryukhanov — Python / Data Science Developer
 
 Привет!  
 Меня зовут Сергей Брюханов, я Python-разработчик в сфере IT с декабря 2022 года.  
